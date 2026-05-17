@@ -165,7 +165,7 @@ Open `Conn.java` and update:
 Connection c = DriverManager.getConnection(
     "jdbc:mysql://localhost/bankmanagement", 
     "root",      // your MySQL username
-    "password"   // your MySQL password
+    "Du31@singh"   // your MySQL password
 );
 ```
 
