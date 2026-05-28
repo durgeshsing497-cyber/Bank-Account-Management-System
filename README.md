@@ -281,7 +281,7 @@ Hindalco Industries Limited is a subsidiary of the Aditya Birla Group and is one
 durgesh-singh-090582312
 Vanity URL name
 
-- 🐙 [your GitHub here]
+- 🐙 [(https://github.com/)]
 
 -----
 
