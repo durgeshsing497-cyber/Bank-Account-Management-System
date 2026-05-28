@@ -276,8 +276,11 @@ Hindalco Industries Limited is a subsidiary of the Aditya Birla Group and is one
 **Durgesh Kumar Singh**
 
 - 🎓 B.Tech — AI & Data Science, 7th Semester
-- 📧 [your email here]
-- 💼 [your LinkedIn here]
+- 📧 [durgeshsing497@gmail.com]
+- 💼 []www.linkedin.com/in/
+durgesh-singh-090582312
+Vanity URL name
+
 - 🐙 [your GitHub here]
 
 -----
