@@ -99,8 +99,7 @@ The system is designed with two modules:
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/durgeshsing497-cyber /Bank-Management-System.git
-```
+git clone https://github.com/durgeshsing497-cyber/Bank-Account-Management-System.git
 
 ### Step 2 — Setup MySQL Database
 
@@ -165,7 +164,7 @@ Open `Conn.java` and update:
 Connection c = DriverManager.getConnection(
     "jdbc:mysql://localhost/bankmanagement", 
     "root",      // your MySQL username
-    "1234"   // your MySQL password
+    "...."   // your MySQL password
 );
 ```
 
